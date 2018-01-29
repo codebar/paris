@@ -4,9 +4,9 @@
 
 #### Initiative à **but non lucratif** qui organise des **ateliers de programmation** pour encourager la **diversité dans la communauté tech**.
 
-Notre but est de permettre aux personnes sous-représentées dans notre industrie d'apprendre à programmer dans un environnement bienveillant et collaboratif, pour progresser dans leur carrière.
+Notre but est de permettre aux personnes peu représentées dans notre industrie d'apprendre à programmer dans un environnement bienveillant et collaboratif, pour progresser dans leur carrière.
 
-Pour atteindre cet objectif, nous allons organiser régulièrement des ateliers gratuits, pour tenter de créer de nouvelles opportunités pour les participants, en leur rendant la technologie plus accessible.
+Pour atteindre cet objectif, nous allons organiser régulièrement des ateliers gratuits visant à créer de nouvelles opportunités pour les participants en leur rendant la technologie plus accessible.
 
 Concrètement, ce sont des ateliers d'initiation ou de perfectionnement de ~2h pour ~25 personnes, avec un ratio de ~1 coach pour 2 participants.
 
