@@ -6,13 +6,13 @@
 
 Notre but est de permettre aux personnes peu représentées dans notre industrie d'apprendre à programmer dans un environnement bienveillant et collaboratif, pour progresser dans leur carrière.
 
-Pour atteindre cet objectif, nous allons organiser régulièrement des ateliers gratuits visant à créer de nouvelles opportunités pour les participants en leur rendant la technologie plus accessible.
+Pour atteindre cet objectif, nous allons organiser régulièrement des ateliers gratuits visant à créer de nouvelles opportunités pour les participant·e·s en leur rendant la technologie plus accessible.
 
 Concrètement, ce sont des ateliers d'initiation ou de perfectionnement de ~2h pour ~25 personnes, avec un ratio de ~1 coach pour 2 participants.
 
 Les coachs assurent un conseil sur mesure aux participants, et l'événement est encadré par un [code de conduite](./code-of-conduct.md).
 
-Pour participer en tant qu'organisateur, coach, ou participant, tout se fait sur le site officiel, il suffit de s'inscrire et de rejoindre le groupe de Paris : https://codebar.io/paris
+Pour participer en tant que membre de l'organisation, coach, ou participant·e, tout se fait sur le site officiel, il suffit de s'inscrire et de rejoindre le groupe de Paris : https://codebar.io/paris
 
 Une messagerie Slack est également disponible sur https://codebar-slack.herokuapp.com avec un canal `#paris` ou vous êtes les bienvenu·e·s.
 
