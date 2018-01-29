@@ -8,7 +8,7 @@ Notre but est de permettre aux personnes peu représentées dans notre industrie
 
 Pour atteindre cet objectif, nous allons organiser régulièrement des ateliers gratuits visant à créer de nouvelles opportunités pour les participant·e·s en leur rendant la technologie plus accessible.
 
-Concrètement, ce sont des ateliers d'initiation ou de perfectionnement de ~2h pour ~25 personnes, avec un ratio de ~1 coach pour 2 participants.
+Concrètement, ce sont des ateliers d'initiation ou de perfectionnement de 2h pour environ 25 personnes, avec un ratio d'environ 1 coach pour 2 participants.
 
 Les coachs assurent un conseil sur mesure aux participants, et l'événement est encadré par un [code de conduite](./code-of-conduct.md).
 
