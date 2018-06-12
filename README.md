@@ -2,6 +2,10 @@
 
 ![](./codebar-logo.png)
 
+🚨 Nous cherchons des organisateurs pour lancer ce format à Paris !
+
+➡️ Contacter @kriszta ou @kimberleycook sur le slack codebar : http://codebar.slack.com/
+
 #### Initiative à **but non lucratif** qui organise des **ateliers de programmation** pour encourager la **diversité dans la communauté tech**.
 
 Notre but est de permettre aux personnes peu représentées dans notre industrie d'apprendre à programmer dans un environnement bienveillant et collaboratif, pour progresser dans leur carrière.
@@ -16,7 +20,7 @@ Pour participer en tant que membre de l'organisation, coach, ou participant·e, 
 
 Une messagerie Slack est également disponible sur https://codebar-slack.herokuapp.com avec un canal `#paris` ou vous êtes les bienvenu·e·s.
 
-L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com/revolunet).
+~~L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com/revolunet).~~
 
 Twitter : https://twitter.com/codebarParis
 
